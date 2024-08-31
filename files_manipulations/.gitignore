@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.jpeg
+*.heic
+
+/videos
+/png_images
+/Images
+/pillow_heif
